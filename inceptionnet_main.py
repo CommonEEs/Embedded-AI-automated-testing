@@ -150,7 +150,7 @@ for i in range(L):
         Save_DIR,
         overwrite=True,
         include_optimizer=True,
-        save_format='h5',
+        save_format='tf',
         signatures=None,
         options=None,
         save_traces=True

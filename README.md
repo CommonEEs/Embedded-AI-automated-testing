@@ -17,4 +17,8 @@ Oscilloscope data from a simple RC circuit built on a breadboard. Acceptable val
 - Test data (Mixed)
 
 Limited in applicability and difficulty. Obsolete.
-#### ??? Dataset
+#### Radar Dataset
+This is our current selection. Dataset to be generated digitally with filters and noise as appropriate amongst three categories:
+- Regular radar signals
+- ????
+- ????

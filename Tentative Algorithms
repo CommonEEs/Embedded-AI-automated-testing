@@ -1,4 +1,0 @@
-#real-time camera detection
-Xilinx provides an example of real-time camera detection as part of its vitis AI package here 
-https://github.com/Xilinx/Vitis-AI/blob/master/examples/VART/adas_detection/src/main.cc
-

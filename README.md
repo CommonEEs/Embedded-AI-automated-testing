@@ -24,3 +24,10 @@ Simulated data from a virtual antenna to detect approaching  targets using matla
 - Training data (False-alarm)
 - Training data (Approaching)
 - Test data (Mixed)
+
+### Dataset 3
+#### UART Dataset
+Sent a letter Q and a generated sine wave into a summing amplifier to modify UART signals. Acceptable signals have slight noise on the square waves being sent. Dataset divided into three folders:
+- Training Data (Good)
+- Training Data (Bad)
+- Test Data (Mixed)
